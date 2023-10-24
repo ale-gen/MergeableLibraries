@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:DynamicFramework2/DynamicFramework2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DynamicFramework1/DynamicFramework1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:App/App.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:StaticLibrary/StaticLibrary.xcodeproj">
+   </FileRef>
+</Workspace>
